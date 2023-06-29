@@ -7,3 +7,27 @@
     font-family:'Open Sans', sans-serif;
 }
 
+body{
+    background-color: rgb(29, 29, 29);
+}
+
+.header-container{
+    background-color: rgb(22, 43, 22);
+    text-align: center;
+    height: 100px;
+    padding: 5px;
+}
+
+.header-container > h1{
+    color: rgb(240, 240, 240);
+    font-size: 2.5em;
+}
+
+.header-container > p{
+    color: rgb(190, 190, 190);
+    font-size: 1.2em;
+}
+
+table{
+    color: white;
+}
